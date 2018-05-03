@@ -1,0 +1,25 @@
+{
+  "name": "whether-application",
+  "version": "1.0.0",
+  "description": "Whether Application - Used Udemy Tutorials",
+  "main": "app.js",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "request": "^2.85.0",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datymmj/Whether-Application.git"
+  },
+  "author": "Anubhav jaiswal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datymmj/Whether-Application/issues"
+  },
+  "homepage": "https://github.com/datymmj/Whether-Application#readme"
+}
