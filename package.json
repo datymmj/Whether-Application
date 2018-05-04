@@ -4,6 +4,7 @@
   "description": "Whether Application - Used Udemy Tutorials",
   "main": "app.js",
   "dependencies": {
+    "axios": "^0.18.0",
     "lodash": "^4.17.10",
     "request": "^2.85.0",
     "yargs": "^11.0.0"
