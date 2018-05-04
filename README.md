@@ -4,7 +4,7 @@ Udemy Project: Basic Whether application - used asynchronous functions and promi
 This is a terminal based node project.
 User can enter the command with address as the command line argument. Then the app will return the temprature of that location which is given in the command line argument.
 
-Project Setup:-
+## Quick Start:-
 > Clone or download the project from the github repository.
 After cloning the repository in local.
 
@@ -13,7 +13,9 @@ After successfull run of npm install, write command as described below.
 
 ## Command
 
-`Node app.js -a 'address'`
+```bash 
+Node app.js -a 'address'
+```
   
 * -a   :- Acts as a descriptor or address or you can directly use --address.
 * address :- Actual address provided by the user.
