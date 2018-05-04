@@ -5,10 +5,10 @@ This is a terminal based node project.
 User can enter the command with address as the command line argument. Then the app will return the temprature of that location which is given in the command line argument.
 
 ## Quick Start:-
-> Clone or download the project from the github repository.
+* Clone or download the project from the github repository.
 After cloning the repository in local.
 
-> Run `npm install` in the root directory.
+* Run `npm install` in the root directory.
 After successfull run of npm install, write command as described below.
 
 ## Command
